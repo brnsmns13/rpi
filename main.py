@@ -10,7 +10,7 @@ def main():
     while 1:
         card_id = raw_input('> ')
         data = {
-            'bikeID': 2,
+            'bikeID': 1,
             'dockID': 1,
             'cardString': card_id
         }
